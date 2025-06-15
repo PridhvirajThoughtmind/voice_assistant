@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fastapi = "==0.115.12"
+pydantic = "==2.11.5"
+noisereduce = "==3.0.3"
+soundfile = "==0.13.1"
+vosk = "==0.3.45"
+pydantic-settings = "==2.9.1"
+uvicorn = "==0.34.3"
+python-multipart = "==0.0.20"
+watchfiles = "==1.0.5"
+elevenlabs = "==2.3.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
