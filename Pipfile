@@ -14,6 +14,7 @@ uvicorn = "==0.34.3"
 python-multipart = "==0.0.20"
 watchfiles = "==1.0.5"
 elevenlabs = "==2.3.0"
+ffmpeg-python = "==0.2.0"
 
 [dev-packages]
 
